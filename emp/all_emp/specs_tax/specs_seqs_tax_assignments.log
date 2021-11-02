@@ -1,0 +1,180 @@
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 1
+Result path: /tmp/assign-tax3_0zxm
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-tax1E_8xv
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxe7qj8h
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxzmuawy
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxWt6dyN
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxbg6GDc
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxTbM9qc
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 2
+Result path: /tmp/assign-taxPLAABK
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-tax_hHyIh
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-tax58INMU
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxBx1mC5
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxIY98gB
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxGQ6JsF
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxwC4auJ
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 1
+Result path: /tmp/assign-taxpAWcsa
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxdtif_g
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxS3Tguu
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxT0SJUR
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 351
+Number with no blast hits: 0
+Result path: /tmp/assign-taxoje4Wl
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/jack/Documents/first_author/specificity/analyses/emp/all_emp/specs_tax/BTA_41f0K_/97_otus.fasta
+id_to_taxonomy_filepath:/home/jack/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 345
+Number with no blast hits: 5
+Result path: /tmp/assign-taxYiKmLw
